@@ -74,6 +74,7 @@ Scan QR code di Expo Go → app siap digunakan.
 ## 🔗 Links
 
 - **Expo Snack:** *(https://snack.expo.dev/@boraborii/notekeeper)*
+- **Github:** *(https://github.com/rikapandia/NoteKeeper)*
 
 ---
 
