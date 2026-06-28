@@ -40,18 +40,13 @@ NoteKeeper adalah app pencatatan mobile dengan fitur CRUD lengkap. Data tersimpa
 
 ## 📱 Screenshot
 
-**Light Mode**
-![Light Mode](assets/screenshot-light.jpeg)
+| Light Mode | Dark Mode |
+|:---:|:---:|
+| ![Light](assets/screenshot-light.jpeg) | ![Dark](assets/screenshot-dark.jpeg) |
 
-**Dark Mode**
-![Dark Mode](assets/screenshot-dark.jpeg)
-
-**Sebelum tutup app**
-![Sebelum](assets/screenshot-before.jpeg)
-
-**Setelah buka lagi (bukti persistensi)**
-![Setelah](assets/screenshot-after.jpeg)
-
+| Sebelum Tutup App | Setelah Buka Lagi |
+|:---:|:---:|
+| ![Before](assets/screenshot-before.jpeg) | ![After](assets/screenshot-after.jpeg) |
 ---
 
 ## 🚀 Cara Menjalankan
