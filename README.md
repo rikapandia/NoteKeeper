@@ -50,7 +50,7 @@ NoteKeeper adalah app pencatatan mobile dengan fitur CRUD lengkap. Data tersimpa
 ![Sebelum](assets/screenshots/screenshot-before.jpeg)
 
 **Setelah buka lagi (bukti persistensi)**
-![Setelah](assets/screenshots/screenshot-after.jpeg)
+![Setelah](assets/screenshot-after.jpeg)
 
 ---
 
@@ -78,7 +78,7 @@ Scan QR code di Expo Go → app siap digunakan.
 
 ## 🔗 Links
 
-- **Expo Snack:** *(update link setelah upload)*
+- **Expo Snack:** *(https://snack.expo.dev/@boraborii/notekeeper)*
 - **GitHub:** [github.com/USERNAME/notekeeper](https://github.com)
 
 ---
